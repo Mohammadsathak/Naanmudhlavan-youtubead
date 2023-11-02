@@ -1,0 +1,18 @@
+Here are some of the functional features included in the solution for YouTube ad campaign about fashion clothes:
+
+Target audience selection:
+The ability to target ads to specific demographics, interests, and behaviors, such as people who have recently searched for fashion-related terms.
+
+Ad format selection:
+The ability to choose from a variety of ad formats, such as skippable in-stream ads, non-skippable in-stream ads, bumper ads, and sponsored cards.
+
+Bidding strategy selection:
+The ability to choose from a variety of bidding strategies, such as cost per click (CPC), cost per view (CPV), and cost per thousand impressions (CPM).
+
+Ad creative optimization:
+The ability to test and optimize ad creatives, such as different video lengths, thumbnails, and text, to improve campaign performance.
+
+Reporting and analysis:
+The ability to track and analyze campaign performance, such as impressions, clicks, views, and conversions.
+
+These features can help fashion brands reach their target audience, engage with them, and drive sales.
